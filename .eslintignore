@@ -1,2 +1,6 @@
-build/*.js
-config/*.js
+node_modules
+.git
+build
+config
+static
+
