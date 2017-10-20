@@ -10,5 +10,8 @@ let template = require("./hello.vue").default;
 })
 export default class Hello extends Vue {
   name: string = "hello";
+  /*
   msg: string = "Welcome to Your Vue.js App";
+  */
+  msg: string = "my-vue-ts-scaffold";
 }
