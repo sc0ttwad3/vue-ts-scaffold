@@ -2,6 +2,11 @@
 
 > A Vue.js project
 
+## Notes and Research
+
+[Typescript and Vue](https://johnpapa.net/vue-typescript/)
+
+
 ## Build Setup
 
 ``` bash
