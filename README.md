@@ -27,6 +27,8 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
 
 ## Development
 
+Need to add ability for local server.
+
 ## Testing
 
 
